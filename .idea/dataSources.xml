@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="236604701">
+    <data-source source="LOCAL" name="Django default" uuid="71415796-ca47-4471-a3ee-d617a72d62e4">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/gre.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
